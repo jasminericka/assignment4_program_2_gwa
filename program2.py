@@ -1,6 +1,7 @@
 #jasmin ericka a. celebre
 #bscpe 1-4
 
+import pyfiglet
 #open file
 with open ("student_gwa.txt", "r") as my_file:
 #initialize the name and highest gwa
@@ -16,5 +17,6 @@ with open ("student_gwa.txt", "r") as my_file:
     if gwa> highest_gwa:
         highest_gwa= gwa
         student_name= student
+
 #print output
-print ("The student who obtained the highest general weighted average is {} with a gwa of {}".format(student_name,highest_gwa))
+print (pyfiglet.figlet_format("The student who obtained the highest general weighted average is {} with a gwa of {}".format(student_name,highest_gwa), font="digital", justify="center" ))

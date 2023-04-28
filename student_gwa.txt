@@ -2,3 +2,19 @@ Celebre, 3
 Batumbakal, 2.5
 Sison, 3
 Perez, 2
+Dizon, 2
+Mateo, 3
+Arias, 2.75
+PIlapil, 2.75
+Gomez, 2.5
+Trinidad, 1
+Dela Cruz, 3
+Santos, 2
+Reyes, 3
+Aquino, 1.5
+Bautista, 1.5
+Garcia, 2.5
+Gonzales, 2.5
+Dionisio, 2.5
+Ramos, 1.5
+Lopez, 1.5
